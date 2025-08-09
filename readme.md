@@ -22,10 +22,8 @@ My project protects my laptop from unauthorized people who try to take it withou
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- programming language-python,c
+- opencv for face recognition and tracking
 
 For Hardware:
 - SERVO MOTOR
@@ -68,11 +66,8 @@ For Hardware:
 ### Project Demo
 # Video
 https://photos.app.goo.gl/cMXqaCqRLCZYbCDh9
+https://photos.app.goo.gl/gSE9YRuMUS9CNqcR9
 
-
-
-# Additional Demos
-[Add any extra demo materials/links]
 
 Made with ❤️ at TinkerHub Useless Projects 
 
