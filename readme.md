@@ -13,10 +13,10 @@ Automated Face-Tracking and Targeting System with Blacklist Alert
 This project develops a real-time face recognition and tracking system integrated with an automated targeting mechanism. Using computer vision, servo-controlled hardware, and Arduino, the system detects and tracks a specific individual ("Mashkoor") while monitoring for blacklisted persons. Upon detecting a blacklisted individual continuously for more than 5 seconds, the system activates an external mechanism (e.g., a gun) to track and engage the target automatically.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Some people just can’t resist grabbing your stuff without asking — especially your laptop. They sneak around, take it when you’re not looking, and leave you scrambling. It’s annoying, frustrating, and honestly, kinda rude.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+My project protects my laptop from unauthorized people who try to take it without my consent. It specifically targets blacklisted individuals, and if they stay near my laptop for more than 5 seconds, the system automatically tracks them and activates a shooting mechanism to stop them.
 
 ## Technical Details
 ### Technologies/Components Used
@@ -44,16 +44,6 @@ visual studio
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
 # Diagrams
 
 
@@ -75,6 +65,7 @@ For Hardware:
 
 ### Project Demo
 # Video
+https://photos.app.goo.gl/cMXqaCqRLCZYbCDh9
 
 
 
