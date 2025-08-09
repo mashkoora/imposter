@@ -6,7 +6,7 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Member: Mashkoor Asim k
 
 ### Project Description
 Project Description:
