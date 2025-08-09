@@ -32,18 +32,8 @@ For Hardware:
 
 ### Implementation
 For Software: 
-arduino ide
+arduino ide,
 visual studio
-
-# Installation
-[commands]
-
-# Run
-[commands]
-
-### Project Documentation
-For Software:
-
 # Diagrams
 
 
