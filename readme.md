@@ -11,7 +11,7 @@
 ### Project Description
 Project Description:
 Automated Face-Tracking and Targeting System with Blacklist Alert
-This project develops a real-time face recognition and tracking system integrated with an automated targeting mechanism. Using computer vision, servo-controlled hardware, and Arduino, the system detects and tracks a specific individual ("Mashkoor") while monitoring for blacklisted persons. Upon detecting a blacklisted individual continuously for more than 5 seconds, the system activates an external mechanism (e.g., a gun) to track and engage the target automatically.
+This project develops a real-time face recognition and tracking system integrated with an automated targeting mechanism. Using computer vision with OpenCV, servo-controlled hardware, and Arduino, the system detects and tracks a specific individual ("Mashkoor") while continuously monitoring for blacklisted persons. Upon detecting a blacklisted individual continuously for more than 5 seconds, the system activates an external mechanism (e.g., a gun) to track and engage the target automatically.
 
 ### The Problem (that doesn't exist)
 Some people just can’t resist grabbing your stuff without asking — especially your laptop. They sneak around, take it when you’re not looking, and leave you scrambling. It’s annoying, frustrating, and honestly, kinda rude.
