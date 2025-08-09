@@ -30,6 +30,7 @@ For Software:
 For Hardware:
 - SERVO MOTOR
 - ARDUINO UNO
+- Gun
 
 ### Implementation
 For Software: 
